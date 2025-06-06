@@ -1,1 +1,2 @@
-# tip_calculator-in-python
+# Tip Calculator in Python
+  Split the bill with the 12%, 13%, 15% tip.      
