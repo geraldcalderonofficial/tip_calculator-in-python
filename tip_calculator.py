@@ -30,7 +30,6 @@ while True:
     print("What percentage tip would you like to give? 10, 12, or 15?")
     percentage = input("> ")
     # list of acceptable choices
-    choices_list = ["10", "12", "15"]
     # make sure the input is one of them
     if percentage not in choices_list:
         print("Please enter 10, 12 or 15.")
